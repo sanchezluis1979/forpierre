@@ -1,0 +1,15 @@
+thead {color:green;}
+tbody {color:blue;}
+tfoot {color:red;}
+
+ th, td {
+    border: 1px solid black;
+text-align: center;
+}
+
+ table{
+   border-collapse: collapse;
+ }
+ tfoot{
+   font-weight: bold;
+ }

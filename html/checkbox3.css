@@ -1,0 +1,12 @@
+
+fieldset{
+
+    padding: 20px;
+    width: 300px;
+    resize: both;
+    overflow: auto;
+}
+label{
+font-size:  2em;
+font-weight: bold;
+}

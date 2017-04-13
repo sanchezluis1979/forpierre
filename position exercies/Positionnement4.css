@@ -1,0 +1,20 @@
+
+
+
+p {
+  width: 350px;
+  margin: auto;
+  text-align: justify;
+}
+
+
+
+div {
+  position: fixed;
+  left: 250px;
+  top: 100px;
+  text-align: center;
+  width: 200px;
+  padding: 80px 10px;
+  background-color: lightblue;
+}
